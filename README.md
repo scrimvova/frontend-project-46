@@ -13,6 +13,6 @@ Program compares 2 files of .json or .yaml formats and displays the differences 
 
 ### How to use
 
-1. Clone this repo `git clone https://github.com/Moshi231/frontend-project-46`
+1. Clone this repo `git clone https://github.com/scrimvova/frontend-project-46`
 2. To build the project type `make install`
 3. To run, type `gendiff <path to first file> <path to second file> --format [stylish/plain/json]`
